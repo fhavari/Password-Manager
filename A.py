@@ -28,4 +28,4 @@ password=""
 for a in password_list:
     password+=a
 
-print(f"Your password is {password} ")
+print(f"Your password is: {password} ")
